@@ -1,6 +1,5 @@
 #DROP TABLE Astronauts
 CREATE TABLE Astronauts(
-id INT UNIQUE,
 lastName VARCHAR(20),
 firstName VARCHAR(20),
 middleInitial CHAR(1),

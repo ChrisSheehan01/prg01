@@ -2,7 +2,7 @@
 #programming assignment 1
 
 #Creates Database called prg01
-CREATE DATABASE prg01;
+#CREATE DATABASE prg01;
 
 #Chooses the Database prg01 to use
 USE prg01;
@@ -16,7 +16,7 @@ DROP TABLE Astronauts;
 #Sets the attribute "id" as the primary key
 #id is an auto-incremented field
 CREATE TABLE Astronauts(
-id	INT,
+id	INT NOT NULL AUTO_INCREMENT,
 lastName VARCHAR(20),
 firstName VARCHAR(20),
 middleInitial CHAR(1),
@@ -38,8 +38,7 @@ UNIQUE (id)
 );
 
 #loading file Astronauts.csv to add data to Table Astronauts
-LOAD DATA INFILE 'absolute_path/Astronauts.csv'
+LOAD DATA LOCAL INFILE '/Users/ChrisSheehan/Documents/265 /prg01/Astronauts.csv' 
 INTO TABLE Astronauts
-FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+FIELDS TERMINATED BY ','
 IGNORE 1 ROWS;
-

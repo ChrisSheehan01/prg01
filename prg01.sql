@@ -1,5 +1,22 @@
-#DROP TABLE Astronauts
+#Chris Sheehan
+#programming assignment 1
+
+#Creates Database called prg01
+CREATE DATABASE prg01;
+
+#Chooses the Database prg01 to use
+USE prg01;
+
+#Makes sure there is no existing table called astronauts
+DROP TABLE Astronauts;
+
+
+#Creating Table Astronauts
+#Creates an attribute and its corresponding type
+#Sets the attribute "id" as the primary key
+#id is an auto-incremented field
 CREATE TABLE Astronauts(
+id	INT,
 lastName VARCHAR(20),
 firstName VARCHAR(20),
 middleInitial CHAR(1),
@@ -12,9 +29,16 @@ country VARCHAR(15),
 status VARCHAR(10),
 daysInSpace INT,
 yearStarted INT,
-groupNumber INT,
+groupNumber	INT,
 numberOfFlights INT,
 spaceCenter VARCHAR(30),
 militaryRank VARCHAR(15),
-militaryBranch VARCHAR(20)
+militaryBranch VARCHAR(20),
+UNIQUE (id)
 );
+
+LOAD DATA INFILE 'absolute_path/Astronauts.csv'
+INTO TABLE Astronauts
+FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+IGNORE 1 ROWS;
+

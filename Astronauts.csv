@@ -3,7 +3,7 @@ Acaba,Joseph,M,NULL,M,1967/05/17,Inglewood,California,USA,active,138,2004,19,2,L
 Arnold,Richard,R,II,M,1963/11/26,Cheverly,Maryland,USA,active,23,2004,19,1,Lyndon B. Johnson Space Center,NULL,NULL
 Aunon,Serena,M,M.D. & M.S.,F,1976/04/09,Indianapolis,Indiana,USA,active,0,2009,20,0,Lyndon B. Johnson Space Center,NULL,NULL
 Barratt,Michael,R,M.D.,M,1959/04/16,Vancouver,Washington,USA,active,211,2000,18,2,Lyndon B. Johnson Space Center,NULL,NULL
-Behnken,Robert,L,Ph.D.,M,NULL/NN/NN,Creve Coeur,Missouri,USA,active,31,29,2000,18,2,Lyndon B. Johnson Space Center,Colonel,U.S. Air Force
+Behnken,Robert,L,Ph.D.,M,NULL/NN/NN,Creve Coeur,Missouri,USA,active,29,2000,18,2,Lyndon B. Johnson Space Center,Colonel,U.S. Air Force
 Boe,Eric,A,NULL,M,1964/10/01,Miami,Florida,USA,active,28,2000,18,2,Lyndon B. Johnson Space Center,Colonel,U.S. Air Force
 Bowen,Stephen,G,NULL,M,1964/02/13,Cohasset,Massachusetts,USA,active,40,2000,18,3,Lyndon B. Johnson Space Center,Captain,U.S. Navy
 Bresnik,Randolph,J,NULL,M,1967/09/11,Fort Knox,Kentucky,USA,active,10,2004,19,1,Lyndon B. Johnson Space Center,Colonel,U.S. Marine Corps
@@ -12,7 +12,7 @@ Caldwell-Dyson,Tracy,E,Ph.D.,F,1969/08/14,Arcadia,California,USA,active,188,1998
 Cassidy,Christopher,J,NULL,M,1970/01/04,Salem,Massachusetts,USA,active,15,2004,19,1,Lyndon B. Johnson Space Center,Commander,U.S. Navy
 Cassada,Josh,A,Ph.D.,M,NULL/NN/NN,San Diego,California,USA,active,0,2013,21,0,Lyndon B. Johnson Space Center,Lt. Commander,U.S. Navy
 Epps,Jeanette,J,Ph.D.,F,NULL/NN/NN,Syracuse,New York,USA,active,0,2009,20,0,Lyndon B. Johnson Space Center,NULL,NULL
-Feustel,Andrew J,Ph.D.,M,1965/08/25,Lancaster,Pennsylvania,USA,active,28,2000,18,2,Lyndon B. Johnson Space Center,NULL,NULL
+Feustel,Andrew,J,Ph.D.,M,1965/08/25,Lancaster,Pennsylvania,USA,active,28,2000,18,2,Lyndon B. Johnson Space Center,NULL,NULL
 Fincke,Edward,M,NULL,M,1967/03/04,Pittsburgh,Pennsylvania,USA,active,381,1996,16,3,Lyndon B. Johnson Space Center,Colonel,U.S. Air Force
 Fischer,Jack,D,NULL,M,1974/NN/NN,Louisville,Colorado,USA,active,0,2009,20,0,Lyndon B. Johnson Space Center,Lt. Colonel,U.S. Air Force
 Fossum,Michael,E,NULL,M,1957/12/19,Sioux Falls,South Dakota,USA,active,193,1998,17,3,Lyndon B. Johnson Space Center,Colonel,U.S. Air Force
@@ -24,15 +24,15 @@ Kelly,Scott,J,NULL,M,1964/02/21,Orange,New Jersey,USA,active,180,1996,16,3,Lyndo
 Kimbrough,Robert Shane,NULL,NULL,M,1967/06/04,Killeen,Texas,USA,active,15,2004,19,1,Lyndon B. Johnson Space Center,Colonel,U.S. Army
 Koch,Christina,H,NULL,F,NULL/NN//NN,NULL,Michigan,USA,active,0,2013,21,0,Lyndon B. Johnson Space Center,NULL,NULL
 Kopra,Timothy,L,NULL,M,1963/04/09,Kopra,Texas,USA,active,58,2000,18,2,Lyndon B. Johnson Space Center,Colonel,U.S. Army
-Lindgren,Kjell,N,M.D.,M,NULL/NN/NN/Taipei,NULL,Taiwan,active,141,2009,20,2,Lyndon B. Johnson Space Center,NULL,NULL
+Lindgren,Kjell,N,M.D.,M,NULL/NN/NN,Taipei,NULL,Taiwan,active,141,2009,20,2,Lyndon B. Johnson Space Center,NULL,NULL
 Mann,Nicole Aunapu,NULL,NULL,F,NULL/NN/NN,Petaluma,California,USA,active,0,2013,21,0,Lyndon B. Johnson Space Center,Major,U.S. Marine Corps
 Marshburn,Thomas,H,M.D.,M,1960/08/29,Statesville,North Carolina,USA,active,15,2004,19,2,Lyndon B. Johnson Space Center,NULL,NULL
-McArthur,K. Megan,Ph.D,F,1971/08/30,Honolulu,Hawaii,USA,active,12,2000,18,1,Lyndon B. Johnson Space Center,NULL,NULL
+McArthur,K. Megan,NULL,Ph.D,F,1971/08/30,Honolulu,Hawaii,USA,active,12,2000,18,1,Lyndon B. Johnson Space Center,NULL,NULL
 McClain,Anne,C,NULL,F,NULL/NN/NN,Spokane,Washington,USA,active,0,2013,21,0,Lyndon B. Johnson Space Center,Major,U.S. Army
 Meir,Jessica,U,Ph.D.,F,NULL/NN/NN,Caribou,Maine,USA,active,0,2013,21,0,Lyndon B. Johnson Space Center,NULL,NULL
 Morgan,Andrew,R,M.D.,M,NULL/NN/NN,Morgantown,West Virginia,USA,active,0,2013,21,0,Lyndon B. Johnson Space Center,U.S. Army,Lt. Col.
 Nyberg,Karen,L,Ph.D.,F,1969/10/07,Vining,Minnesota,USA,active,13,2000,18,1,Lyndon B. Johnson Space Center,NULL,NULL
-Pettit,Donald,R,Ph.D.,1955/04/20,Silverton,Oregon,USA,active,369,1996,16,3,Lyndon B. Johnson Space Center,NULL,NULL
+Pettit,Donald,R,Ph.D.,M,1955/04/20,Silverton,Oregon,USA,active,369,1996,16,3,Lyndon B. Johnson Space Center,NULL,NULL
 Rubins,Kathleen,NULL,Ph.D.,F,1978/NN/NN,Farmington,Connecticut,USA,active,0,2009,20,0,Lyndon B. Johnson Space Center,NULL,NULL
 Tingle,Scott,D,NULL,M,NULL/NN/NN,Attleboro,Massachusetts,USA,active,0,2009,20,0,Lyndon B. Johnson Space Center,Captain,U.S. Navy
 Vande Hei,Mark,T,NULL,M,1966/NN/NN,Falls Church,Virginia,USA,active,0,2009,20,0,Lyndon B. Johnson Space Center,Colonel,U.S. Army

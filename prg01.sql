@@ -37,6 +37,7 @@ militaryBranch VARCHAR(20),
 UNIQUE (id)
 );
 
+#loading file Astronauts.csv to add data to Table Astronauts
 LOAD DATA INFILE 'absolute_path/Astronauts.csv'
 INTO TABLE Astronauts
 FIELDS TERMINATED BY ',' ENCLOSED BY '"'
